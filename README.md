@@ -12,3 +12,7 @@ Use the Tkinter interface because it is integrated into Python and does not requ
 
 ## WORKING SCRIPTS
 Library of scripts that can be used in Archicad or alongside Archicad
+
+## LINKS
+Official API: https://archicadapi.graphisoft.com/archicadPythonPackage/modules.html 
+Tapir : https://github.com/ENZYME-APD/tapir-archicad-automation
